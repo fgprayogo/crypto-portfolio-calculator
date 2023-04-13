@@ -28,9 +28,9 @@ Basically we just need to prepare the .csv file and then seed/import it to the S
 
 ## Data
 
-1. CSV file : <a href="https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip" target="_blank">transactions.csv</a>
+1. CSV file : [transactions.csv](https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip)
 
-2. SQLite database (optional. You can generate this database when everything is set up) : <a href="https://drive.google.com/file/d/12M4K2tVOEXat01DYOSVMOlUhNn1-dFkV/view?usp=share_link" target="_blank">crypto-portfolio-db.sqlite</a>
+2. SQLite database (optional. You can generate this database when everything is set up) : [crypto-portfolio-db.sqlite](https://drive.google.com/file/d/12M4K2tVOEXat01DYOSVMOlUhNn1-dFkV/view?usp=share_link)
 
 3. All of the files are compressed into .zip. Don't forget to extract it first.
 
@@ -54,7 +54,7 @@ Basically we just need to prepare the .csv file and then seed/import it to the S
 
 -- `npm run start`
 
-2. (If you do not copy the SQLite database) choose 0 to seed transaction data from .csv file into SQLite database.
+. (If you do not copy the SQLite database) choose 0 to seed transaction data from .csv file into SQLite database.
 
 ![Seed CSV data to SQLite](docs/images/0.png)
 
