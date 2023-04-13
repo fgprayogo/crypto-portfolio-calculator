@@ -28,9 +28,9 @@ Basically we just need to prepare the .csv file and then seed/import it to the S
 
 ## Data
 
-1. CSV file : [transactions.csv](https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip)
+1. CSV file : <a href="https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip" target="_blank">transactions.csv</a>
 
-2. SQLite database (optional. You can generate this database when everything is set up) : [crypto-portfolio-db.sqlite](https://drive.google.com/file/d/12M4K2tVOEXat01DYOSVMOlUhNn1-dFkV/view?usp=share_link)
+2. SQLite database (optional. You can generate this database when everything is set up) : <a href="https://drive.google.com/file/d/12M4K2tVOEXat01DYOSVMOlUhNn1-dFkV/view?usp=share_link" target="_blank">crypto-portfolio-db.sqlite</a>
 
 3. All of the files are compressed into .zip. Don't forget to extract it first.
 
