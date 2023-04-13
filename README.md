@@ -54,7 +54,7 @@ Basically we just need to prepare the .csv file and then seed/import it to the S
 
 -- `npm run start`
 
-3. (If you do not copy the SQLite database) choose 0 to seed transaction data from .csv file into SQLite database.
+2. (If you do not copy the SQLite database) choose 0 to seed transaction data from .csv file into SQLite database.
 
 ![Seed CSV data to SQLite](docs/images/0.png)
 
@@ -111,4 +111,3 @@ Basically we just need to prepare the .csv file and then seed/import it to the S
 ## Authors
 
 - [@fgprayogo](https://www.github.com/fgprayogo)
----# crypto-portfolio-calculator
