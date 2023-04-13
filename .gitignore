@@ -9,4 +9,5 @@ dist/
 package-lock.json
 yarn.lock
 **/.DS_Store
-src/data/**
+src/data/transactions.csv
+src/data/crypto-portfolio-db.sqlite
